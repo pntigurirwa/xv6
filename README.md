@@ -1,4 +1,6 @@
-##### CS-450-PA2
+##### CS450: Operating System
+##### Programming assignment #2 part 2
+
 Implementation of new system call in xv6: date() will return the current UTC time to run this xv6 
 
 ##### Obtaining the repository
