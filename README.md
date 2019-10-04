@@ -7,7 +7,7 @@ Implementation of new system call in xv6: date() will return the current UTC tim
 
 ###### 1. Assuming you have Git installed on your machine,and  simply run the following command to clone the repository into a directory named xv6 on your machine.
  
- ####   $ git clone  https://github.com/pntigurirwa/CS-450-PA2.git
+ ####   $ git clone  https://github.com/pntigurirwa/xv6.git
       
 ##### 2. Start up your platform's command line interpreter (a terminal emulator on Linux/OS X, or Windows command prompt), change into the cloned "xv6" directory, then type the following command:
 
